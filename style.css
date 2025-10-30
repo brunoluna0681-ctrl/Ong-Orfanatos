@@ -18,7 +18,7 @@ body {
    Header e Navegação
    ========================== */
 header {
-    background: linear-gradient(135deg, #72afff 0%, #3654ff 100%);
+    background: linear-gradient(135deg, #676aff 0%, #bac5ff 100%);
     color: rgb(255, 255, 255);
     padding: 1rem 0;
     position: fixed;
@@ -76,7 +76,7 @@ nav a {
    Hero Section - Index
    ========================== */
 .hero {
-    background: linear-gradient(rgba(255, 255, 212, 0.8), rgba(255, 255, 120, 0.8)),
+    background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)),
                 url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23f0f0f0" width="1200" height="600"/></svg>');
     background-size: cover;
     background-position: center;
@@ -152,13 +152,13 @@ nav a {
 
 
 .btn-primary {
-    background: #3654ff;
+    background: #7a8df9;
     color: white;
 }
 
 
 .btn-secondary {
-    background: #3654ff;
+    background: #7a8df9;
     color: white;
 }
 
